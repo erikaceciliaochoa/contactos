@@ -1,3 +1,10 @@
+btn der proyecto -> run as-> maven build...
+goals deploy
+
+target
+jar
+archivo .bat
+
 apretar cmd en la carpeta donde esta el archivo
 java -jar contactos.jar
 http://localhost:8080/contactos
