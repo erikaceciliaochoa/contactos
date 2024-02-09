@@ -1,3 +1,3 @@
-Herramientas utilizadas: Java
-                         Spring boot
+Herramientas utilizadas: Java,
+                         Spring boot,
                          MySql
