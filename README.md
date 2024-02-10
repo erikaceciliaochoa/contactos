@@ -1,4 +1,4 @@
 Herramientas utilizadas: 
-*Java
-*Spring boot
-*MySql
+-Java
+-Spring boot
+-MySql
